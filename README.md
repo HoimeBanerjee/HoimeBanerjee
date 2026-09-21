@@ -1,6 +1,7 @@
-# Hi there, I'm Hoime Banerjee 👋
+# Hello, I'm Hoime Banerjee 👋
+Ph.D. Candidate @ IIT Bombay | Computational Biology, Computer Vision & LLM Alignment[cite: 1]
 
-**Data Scientist & Applied ML Researcher | Prompt Engineer & Generative AI Specialist**[cite: 1]  
+**Applied ML Researcher | Prompt Engineer & Generative AI Specialist**[cite: 1]  
 📍 Mumbai, India[cite: 1]
 
 ---
@@ -8,8 +9,16 @@
 ### 👨‍💻 About Me
 * 🎓 **Ph.D. Researcher** in Biosciences & Bioengineering (Computational Focus) at **IIT Bombay**[cite: 1].
 * 🤖 **Generative AI & LLM Specialist** focused on hallucination reduction, model benchmarking, and structured alignment loops[cite: 1].
-* 🔬 **4+ Years of Experience** in machine learning, computer vision, multi-omics analytics, and building end-to-end predictive pipelines[cite: 1].
+* 🔬 **3+ Years of Experience** in machine learning, computer vision, multi-omics analytics, and building end-to-end predictive pipelines[cite: 1].
 * ⚙️ Passionate about converting complex unstructured datasets (3D microscopy, high-dimensional genomic data) into reproducible, scalable data science solutions[cite: 1].
+
+---
+
+**Certifications:**
+* Data Science for Engineers *(NPTEL Elite Certification, 2025)*[cite: 1]
+* Data Science with Python *(Finlatics, 2025)*[cite: 1]
+* Winter in Data Science *(WIDS - IIT Bombay, 2026)*[cite: 1]
+
 
 ---
 
@@ -44,3 +53,5 @@
 * 💼 **LinkedIn:** [hoime-banerjee](https://linkedin.com/in/hoime-banerjee)[cite: 1]
 * 📧 **Email:** [hoime.banerjee@gmail.com](mailto:hoime.banerjee@gmail.com)[cite: 1]
 * 🌐 **GitHub:** [HoimeBanerjee](https://github.com/HoimeBanerjee)[cite: 1]
+
+
